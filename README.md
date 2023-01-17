@@ -5,7 +5,7 @@ This work has been submitted for possible publication. We highly respect reprodu
 
 How to use this simulation code package?
 
-1）	Data Generation and Download
+1.Data Generation and Download
 
 We have provided the paired samples in following link, where the LS-based pre-estimation processing and data normalization have been completed.
 
@@ -21,11 +21,12 @@ Ackonwledge: We are very grateful for the author of following reference paper. O
 
 [2] E. Basar, I. Yildirim, “Reconfigurable Intelligent Surfaces for Future Wireless Networks: A Channel Modeling Perspective“, IEEE Wireless Commun., vol. 28, no. 3, pp. 108–114, June 2021.
 
-2) The Training and Testing of LPAN/LPAN-L model
+2.The Training and Testing of LPAN/LPAN-L model
 
 We have integrated the model training and test code, and you can run the “main.py” file to obtain the channel estimation result of the LPAN or LPAN-L model. The detailed network model is given in the “LPAN.py” and “LPAN-L.py”.
 
 Notes: 
+
 (1)	Please confirm the required library files have been installed.
 
 (2)	Please switch the desired data loading path and network models.
