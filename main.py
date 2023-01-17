@@ -54,7 +54,7 @@ if cuda:
 # Loading data
 print('===> Loading datasets')
 import h5py
-path="E:/BaiduNetdiskDownload/LS_64_256R_6users_32pilot.mat"
+path="E:/LS_64_256R_6users_32pilot.mat"
 with h5py.File(path, 'r') as file:
     train_h = np.transpose(np.array(file['output_da']))
     train_h = train_h.transpose([0,3,1,2])
@@ -215,7 +215,7 @@ del train_set
 
 # Testing Model
 model.eval()
-path="E:/BaiduNetdiskDownload/LS_64_256R_test_6users_32pilot.mat"
+path="E:/LS_64_256R_test_6users_32pilot.mat"
 with h5py.File(path, 'r') as file:
     test_h = np.transpose(np.array(file['Hd']))
     test_h = test_h.transpose([0,3,1,2])
