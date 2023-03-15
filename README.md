@@ -13,7 +13,7 @@ DOI Link: https://dx.doi.org/10.21227/3c2t-dz81
 
 You can download the dataset and put it in the desired folder. The “LS_64_256R_6users_32pilot.mat” file includes the training and validation dataset, while the “LS_64_256R_test_6users_32pilot” file is used in the test phase.
 
-Remark: We refer the channel modeling scheme in [1] for RIS-aided mmWave Massive MIMO systems, in which we further extend the single-user communication scenarios to the multi-user setup. Besides, we complement the NLOS channel modeling for the RIS-user link in the InH indoor office communication scenarios. 
+Remark: We refer to the channel modeling scheme in [1] for RIS-aided mmWave Massive MIMO systems, in which we further extend the single-user communication scenarios to the multi-user setup. Besides, we complement the NLOS channel modeling for the RIS-user link in the InH indoor office communication scenarios. 
 
 Ackonwledge: We are very grateful for the author of following reference paper. Our dataset construction code is improved based on the open-source SimRIS Channel Simulator MATLAB package [2]. 
 
