@@ -5,7 +5,11 @@ This work has been submitted for possible publication. We highly respect reprodu
 
 
 ## Updating version 2023.7.17 
-In this version, we increase the time-varying channel estimation scenario and the transfer learning framework for the proposed LPAN-L model.
+In this version, we have modified the pre-estimation operations in the dataset construction, and have increased the time-varying channel estimation scenario for the proposed LPAN-L model. The paired samples have been provided in the following link.
+
+DOI Link: https://dx.doi.org/10.21227/pz7h-q132
+
+
 
 ## Original version 2023.1.19
 
@@ -13,7 +17,7 @@ How to use this simulation code package?
 
 1.Data Generation and Download
 
-We have provided the paired samples in following link, where the LS-based pre-estimation processing and data normalization have been completed.
+We have provided the paired samples in the following link, where the LS-based pre-estimation processing and data normalization have been completed.
 
 DOI Link: https://dx.doi.org/10.21227/3c2t-dz81
 
