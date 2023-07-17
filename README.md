@@ -9,6 +9,14 @@ In this version, we have modified the pre-estimation operations in the dataset c
 
 DOI Link: https://dx.doi.org/10.21227/pz7h-q132
 
+In this time-varying channel dataset, we consdier the number of pilot block is set to $B^\text{p}=2$ within a frame with $B=6$ blocks. The sampling period $T_b$ of each time block is fixed as $T_b= 1/(4f^d_\text{max})\approx 0.24$ ms
+The simulation parameters of this dataset have been elaborated in our submitted paper. For instance, M_1 x M_2 = 4 x 8, N_1 x N_2 = 4 x 32, f_c = 73GHz, and Q=N/4. The description of each data file is listed as follows.
+
+inHmix_28_32_128_K2_32pilot.mat: the training dataset and validation dataset in the ES protocol.
+inHmix_28_32_128_test_K2_32pilot.mat: the testing dataset in the ES protocol.
+inHmix_28_32_128_S_32pilot.mat: the training dataset and validation dataset in the TS protocol.
+inHmix_28_32_128_test_S_32pilot.mat: the testing dataset in the TS protocol.
+
 
 
 ## Original version 2023.1.19
