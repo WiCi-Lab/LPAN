@@ -7,6 +7,7 @@ This work has been submitted for possible publication. We highly respect reprodu
 ## Updating version 2023.7.17 
 ### 1. Dataset updating
 (1) Quasi-static channel estimation
+
 In this version, we have reinvestigated the hardware imperfections in the system model, and have modified the pre-estimation operations in the dataset construction according to the insightful comments. The updating dataset has been provided in the following link for the quasi-static channel estimation.
 
 (2) Time-varying channel estimation
