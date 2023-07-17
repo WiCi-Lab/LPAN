@@ -5,6 +5,7 @@ This work has been submitted for possible publication. We highly respect reprodu
 
 
 ## Updating version 2023.7.17 
+### 1. Datset updating
 
 In this version, we have modified the pre-estimation operations in the dataset construction, and have increased the time-varying channel estimation scenario for the proposed LPAN-L model. The paired samples have been provided in the following link.
 
@@ -18,7 +19,7 @@ In this time-varying channel dataset, we consdier the number of pilot block is s
 
 How to use this simulation code package?
 
-1.Data Generation and Download
+### 1.Data Generation and Download
 
 We have provided the paired samples in the following link, where the LS-based pre-estimation processing and data normalization have been completed.
 
@@ -34,7 +35,7 @@ Ackonwledge: We are very grateful for the author of following reference paper. O
 
 [2] E. Basar, I. Yildirim, “Reconfigurable Intelligent Surfaces for Future Wireless Networks: A Channel Modeling Perspective“, IEEE Wireless Commun., vol. 28, no. 3, pp. 108–114, June 2021.
 
-2.The Training and Testing of LPAN/LPAN-L model
+### 2.The Training and Testing of LPAN/LPAN-L model
 
 We have integrated the model training and test code, and you can run the “main.py” file to obtain the channel estimation result of the LPAN or LPAN-L model. The detailed network model is given in the “LPAN.py” and “LPAN-L.py”.
 
