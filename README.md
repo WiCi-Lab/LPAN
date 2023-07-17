@@ -11,9 +11,12 @@ In this version, we have modified the pre-estimation operations in the dataset c
 
 DOI Link: https://dx.doi.org/10.21227/pz7h-q132
 
-In this time-varying channel dataset, we consdier the number of pilot block is set to $B^\text{p}=2$ within a frame with $B=6$ blocks. The sampling period $T_b$ of each time block is fixed as $T_b \approx 0.24$ ms. The specific simulation parameters of this dataset have been elaborated in our submitted paper. The DOI link is composed of training, vadilation and test datasets. Please put them in the desired folder.
+In this time-varying channel dataset, we consdier the number of pilot block is set to $B^\text{p}=2$ within a frame with $B=6$ blocks. The sampling period $T_b$ of each time block is fixed as $T_b \approx 0.24$ ms. The specific simulation parameters of this dataset have been elaborated in our submitted paper. The dataset in the DOI link is composed of training, vadilation and test data. Please put them in the desired folder.
 
 ### 2. Script updating
+
+In the file of '', we have provided the improved LPAN-L architecture for the time-varying channel estimation, while the main function is excuted in file ''.
+In the file of '', we have provided the transfer learning framework for the domain adpation of the proposed LPAN-L architecture.
 
 ## Original version 2023.1.19
 
