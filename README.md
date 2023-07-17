@@ -5,7 +5,7 @@ This work has been submitted for possible publication. We highly respect reprodu
 
 
 ## Updating version 2023.7.17 
-### 1. Datset updating
+### 1. Dataset updating
 
 In this version, we have modified the pre-estimation operations in the dataset construction, and have increased the time-varying channel estimation scenario for the proposed LPAN-L model. The paired samples have been provided in the following link.
 
