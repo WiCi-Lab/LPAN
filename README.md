@@ -5,17 +5,12 @@ This work has been submitted for possible publication. We highly respect reprodu
 
 
 ## Updating version 2023.7.17 
+
 In this version, we have modified the pre-estimation operations in the dataset construction, and have increased the time-varying channel estimation scenario for the proposed LPAN-L model. The paired samples have been provided in the following link.
 
 DOI Link: https://dx.doi.org/10.21227/pz7h-q132
 
-In this time-varying channel dataset, we consdier the number of pilot block is set to $B^\text{p}=2$ within a frame with $B=6$ blocks. The sampling period $T_b$ of each time block is fixed as $T_b= \approx 0.24$ ms
-The simulation parameters of this dataset have been elaborated in our submitted paper. For instance, M_1 x M_2 = 4 x 8, N_1 x N_2 = 4 x 32, f_c = 73GHz, and Q=N/4. The description of each data file is listed as follows.
-
-inHmix_28_32_128_K2_32pilot.mat: the training dataset and validation dataset in the ES protocol.
-inHmix_28_32_128_test_K2_32pilot.mat: the testing dataset in the ES protocol.
-inHmix_28_32_128_S_32pilot.mat: the training dataset and validation dataset in the TS protocol.
-inHmix_28_32_128_test_S_32pilot.mat: the testing dataset in the TS protocol.
+In this time-varying channel dataset, we consdier the number of pilot block is set to $B^\text{p}=2$ within a frame with $B=6$ blocks. The sampling period $T_b$ of each time block is fixed as $T_b= \approx 0.24$ ms. The specific simulation parameters of this dataset have been elaborated in our submitted paper. The DOI link is composed of training, vadilation and test datasets. Please put them in the desired folder.
 
 
 
