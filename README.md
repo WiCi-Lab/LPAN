@@ -10,7 +10,8 @@ This work has been submitted for possible publication. We highly respect reprodu
 In this version, we have reinvestigated the hardware imperfections in the system model, and have modified the pre-estimation operations in the dataset construction according to the insightful comments. The updating dataset has been provided in the following link for the quasi-static channel estimation.
 
 (2) Time-varying channel estimation
-In this version, we have also increased the time-varying channel estimation scenario for the proposed LPAN-L model. The paired samples have been provided in the following link.
+
+In this version, we have also increased the time-varying channel estimation scenario for the proposed LPAN-L model, in which the user mobility is considered in the cascaded channel modeling. The time-varying channel dataset has been provided in the following link.
 
 DOI Link: https://dx.doi.org/10.21227/pz7h-q132
 
