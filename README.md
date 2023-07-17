@@ -1,10 +1,10 @@
 # Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIMO Systems.
 Authors: Jian Xiao, Ji Wang, Zhaolin Wang, Wenwu Xie, and Yuanwei Liu.
 
-## Updating 2023.7.17 
+## Updating version 2023.7.17 
 In this version, we increase the time-varying channel estimation scenario and the transfer learning framework for the proposed LPAN-L model.
 
-
+## Original version 2023.1.19
 This work has been submitted for possible publication. We highly respect reproducible research, so we try to provide the simulation codes for our submitted papers.
 
 How to use this simulation code package?
