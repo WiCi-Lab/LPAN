@@ -25,9 +25,9 @@ The provided code in the original version is still applicable to the updated dat
 
 (2) Time-varying channel estimation
 
-In the file of '', we have provided the improved LPAN-L architecture for the time-varying channel estimation, while the main function is excuted in file ''.
+In the file of 'Mobility_LPAN_L1', we have provided the improved LPAN-L architecture for the time-varying channel estimation. 
 
-In the file of '', we have provided the transfer learning framework for the domain adpation of the proposed LPAN-L architecture.
+In the file of 'main_Mobility', we have provided the execute function for the time-varying channel estimation, in which the transfer learning framework has also been presented for the domain adpation of the proposed LPAN-L architecture.
 
 ## Original version 2023.1.19
 
