@@ -146,7 +146,11 @@ def checkpoint(epoch):
     print("Checkpoint saved to {}".format(model_out_path))
 
 ne=[]
-opt.nEpochs=20
+opt.nEpochs= 100
+
+if TL:
+    opt.nEpochs=20
+    
 test_ne=[]
 import math
 def adjust_learning_rate(optimizer, epoch,learning_rate_init,learning_rate_final):
