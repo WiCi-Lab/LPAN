@@ -11,7 +11,6 @@ We highly respect reproducible research, so we try to provide the simulation cod
   volume={23},
   number={6},
   pages={5969-5984},
-  keywords={Channel estimation;Millimeter wave communication;Estimation;Hardware;Wireless communication;Correlation;Convolution;Reconfigurable intelligent surface;channel estimation;multi-scale attention;hardware impairments},
   doi={10.1109/TWC.2023.3329387}}
 
 
