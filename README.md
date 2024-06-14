@@ -1,5 +1,4 @@
 # Multi-Scale Attention Based Channel Estimation for RIS-Aided Massive MIMO Systems.
-Authors: Jian Xiao, Ji Wang, Zhaolin Wang, Wenwu Xie, and Yuanwei Liu.
 
 We highly respect reproducible research, so we try to provide the simulation codes for our submitted papers. Please refer to the following paper for more details.
 
