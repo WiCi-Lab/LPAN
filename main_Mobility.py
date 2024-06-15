@@ -27,7 +27,7 @@ from Mobility_LPAN_L1 import LPAN_L
 torch.backends.cudnn.benchmark = True
 
 # Training settings 
-parser = argparse.ArgumentParser(description='PyTorch LapSRN')
+parser = argparse.ArgumentParser(description='PyTorch LPAN')
 parser.add_argument('--batchSize', type=int, default=64, help='training batch size')
 parser.add_argument('--testBatchSize', type=int, default=10, help='testing batch size')
 parser.add_argument('--nEpochs', type=int, default=10, help='number of epochs to train for')
